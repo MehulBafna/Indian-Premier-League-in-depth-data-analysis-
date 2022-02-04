@@ -55,7 +55,7 @@ over the analysis done.
    
    - Total wins for each team
    - Win/Loss ratio for each team
-   - Runs comparison of Virat Kohli, Suresh Raina, Rohit Sharma and Mahendra singh dhoni for each of the years
+   - Runs comparison of Virat Kohli, Suresh Raina, Rohit Sharma and Mahendra Singh Dhoni for each of the years
    - Orange Cap winners for each year
    - Purple cap winners for each year
    - Most runs against each team by an individual
