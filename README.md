@@ -1,4 +1,4 @@
-# Indian-Premier-League-in-depth-data-analysis-
+# Indian-Premier-League-in-depth-data-analysis
 Analyzing the Indian Premier League dataset to get insights over various facets of the biggest franchise cricket league. 
 
 Indian Premier League (IPL) is world's biggest Twenty20 franchise cricket league governed by The Board of Control for Cricket in India (BCCI). The league was founded by the Board of Control
