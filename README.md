@@ -2,7 +2,7 @@
 We are analyzing the Indian Premier League dataset to get insights into various facets of the biggest franchise cricket league. 
 
 Indian Premier League (IPL) is the world's biggest Twenty20 franchise cricket league governed by The Board of Control for Cricket in India (BCCI). The league was founded by the Board of Control
-for Cricket in India in 2007. There are two separate datasets, one based on match-by-match and the other based on ball-by-ball entries from IPL 2008 till IPL 2021. Below is a brief explanation 
+for Cricket in India in 2007. There are two separate datasets, one based on match-by-match and the other based on ball-by-ball entries from IPL 2008 till IPL 2024. Below is a brief explanation 
 of the analysis done.
 
 ## Match-by-match dataset (features/attributes)
@@ -55,7 +55,7 @@ of the analysis done.
    
    - Total wins for each team
    - Win/Loss ratio for each team
-   - Runs comparison of Virat Kohli, Suresh Raina, Rohit Sharma and Mahendra Singh Dhoni for each of the years
+   - Runs comparison of Virat Kohli, Rohit Sharma and Mahendra Singh Dhoni for each of the years
    - Orange Cap winners for each year
    - Purple cap winners for each year
    - Most runs against each team by an individual
