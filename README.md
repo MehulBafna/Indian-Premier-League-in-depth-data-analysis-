@@ -20,7 +20,6 @@ of the analysis done.
    - winner: Winning team
    - result: Winning the match either by runs or wickets
    - result_margin: Magnitude of victory by runs or wickets
-   - eliminator: Y - if the match ends in a tie, the winner is decided by super over, N - if the match does not end in a tie, Match abandoned - if the match stands abandoned.
    - method: Y - if the duckworth-lewis method was used during the match, N - otherwise.
    - umpire1: First standing umpire in the match.
    - umpire2: Second standing umpire in the match.
@@ -52,21 +51,44 @@ of the analysis done.
 ### b) Data analysis and visualization
 
    For analysis, numpy and pandas modules have been employed and for visualization seaborn, matplotlib and tabulate modules are used. On analyzing both the datasets, the below records are fetched:
+
+   Team Records
    
    - Total wins for each team
    - Win/Loss ratio for each team
-   - Runs comparison of Virat Kohli, Rohit Sharma and Mahendra Singh Dhoni for each of the years
-   - Orange Cap winners for each year
-   - Purple cap winners for each year
-   - Most runs against each team by an individual
-   - Most wickets against each team by an individual
-   - Most sixes each year as well as overall (Top 10)
-   - Most fours overall (Top 10)
-   - Best strike rate for a batsman (with minimum 120 balls faced) (Top 10)
    - Total players to play for each team
-   - Ratio of balls faced and boundaries scored by a batsman with a minimum of 150 balls faced (Balls per boundary) (Top 15)
-   - Ratio of balls bowled and wickets taken by a bowler with a minimum of 350 balls bowled (Balls per wicket) (Top 15)
-   - Most Player of the Match awards (Top 15)
    - Highest and narrowest margin victories (in terms of runs)
    - Highest and narrowest margin victories (in terms of wickets)
-   - Run-rate for each team in powerplay and death overs (17-20) each year.
+   - Highest Team Totals
+   - Highest Total runs scored in a match
+   - Most Extras in an Innings
+   - Head-to-Head record
+     
+   Batting Records
+
+   - Most Runs
+   - Most Runs for each franchise
+   - Most runs against each franchise
+   - Orange Cap Winners
+   - Highest Individual Innings Scores
+   - Batting Strike Rate
+   - Balls per Boundary
+   - Most Fours
+   - Most Sixes
+   - Most fours seasonwise
+   - Most sixes seasonwise
+   - Batter-to-Batter Runs comparison (Yearly Basis)
+   - Most Half-centuries
+   - Most centuries
+   - Runrate in powerplay and death overs(17-20) for all participating teams each year
+   - Orange-Purple Cap seasonwise
+
+   Bowling Records 
+
+   - Most Wickets
+   - Most Wickets for each Franchise
+   - Most Wickets against each Franchise
+   - Purple cap winners for each year
+   - Ratio of balls bowled and wickets taken by a bowler
+   - Best Economy Rates
+   - Most Player of the Match awards
